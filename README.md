@@ -1,3 +1,3 @@
-# maggi
+# Python
 welcome to new word of development
 I am gona enjoy it, Wooohoooo...
